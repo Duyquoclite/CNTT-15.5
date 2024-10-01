@@ -1,4 +1,4 @@
-<h1>Xin chào, mình là Duy Quốc (Quất)<br>Mình sẽ hướng dẫn cách chạy code trên web <img src="https://files.catbox.moe/pnzl3t.jpeg" width="25"></h1> 
+<h1>Xin chào, mình là Duy Quốc (Quất)<br>Mình sẽ hướng dẫn cách chạy code trên web <img src="https://i.imgur.com/5xXmwku.jpeg" width="25"></h1> 
 <p align="center">
     <img align="center" alt="PNG" src="https://files.catbox.moe/pnzl3t.jpeg" />
 </p> 
