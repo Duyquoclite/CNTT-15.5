@@ -46,7 +46,7 @@
 </p> *
 
 ```diff
-COPY ĐOẠN MÃ NÀY VÀ TÔI VỚI BẠN MÚC BANG NHAU VỚI 2 CHAI DẦU ĂN:>   
+COPY ĐOẠN MÃ NÀY VÀ TÔI VỚI BẠN MÚC BANG NHAU VỚI 3 CHAI DẦU ĂN:>   
 ```
 # 🤝🏻 Liên lạc với tôi
 <p align="center"> 
