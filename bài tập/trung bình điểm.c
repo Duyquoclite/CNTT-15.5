@@ -10,6 +10,6 @@ int main() {
   printf("Nhập điểm hóa: ");
   scanf("%f", &c);
   if (a > 10 || a < 0 || b > 10 && b < 0 || c > 10 || c < 0)
-    return printf("KHÔNG HỢP LỆ");
+    return printf("Nhập đúng số điểm");
   printf("\nĐiểm trung bình: %.2f", (float) (a + b + c) / 3);
 }
