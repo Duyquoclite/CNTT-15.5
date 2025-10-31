@@ -30,7 +30,7 @@ int a = 2;
 // int khai báo mảng
 int a[3];
 // a ở đây là 1 mảng gồm 3 phần tử, có thể thay đổi
-int a[3] = {"hello", "cac", "ban"};
+char a[3] = {"hello", "cac", "ban"};
 // a ở đây đã được khai báo sẵn với 3 phần tử là chuỗi
 int a[3] = {1, 2, 3};
 // a ở đây đã được khai báo sẵn với 3 phần tử là số
